@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: GHA-Cortex-test-repo
-  description: GHA Cortex test repo
+  description: GHA Cortex test  repo
   x-cortex-tag: GHA-Cortex-test-repo
   x-cortex-type: github-action
   x-cortex-groups:
