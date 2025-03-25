@@ -3,10 +3,16 @@ info:
   title: GHA-Cortex-test-repo
   description: test
   x-cortex-tag: GHA-Cortex-test-repo
-  x-cortex-type: service
+  x-cortex-type: github-action
   x-cortex-groups:
   - lifecycle:GA
   x-cortex-owners:
   - name: liquid-schwartz
     type: group
     provider: CORTEX
+  spec:
+    link: "https://example.com"
+    tier: "high"
+    versions:
+      - "1.0.0"
+      - "1.1.0"
