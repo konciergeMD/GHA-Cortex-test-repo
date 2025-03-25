@@ -10,9 +10,3 @@ info:
   - name: liquid-schwartz
     type: group
     provider: CORTEX
-  x-cortex-custom-metadata:
-    link: "https://github.com/konciergeMD/GHA-Cortex-test-repo"
-    tier: "3"
-    versions:
-      - "1.0.0"
-      - "1.1.0"
