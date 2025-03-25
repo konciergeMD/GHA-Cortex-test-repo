@@ -3,7 +3,7 @@ info:
   title: GHA-Cortex-test-repo
   description: test
   x-cortex-tag: GHA-Cortex-test-repo
-  x-cortex-type: github-action
+  x-cortex-type: service
   x-cortex-groups:
   - lifecycle:GA
   x-cortex-owners:
